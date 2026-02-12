@@ -1,0 +1,14 @@
+D:\Code\Visual Studio\ADAddSelfWriteChecker\bin\Release\ADAddSelfWriteChecker.exe.config
+D:\Code\Visual Studio\ADAddSelfWriteChecker\bin\Release\ADAddSelfWriteChecker.exe
+D:\Code\Visual Studio\ADAddSelfWriteChecker\bin\Release\ADAddSelfWriteChecker.pdb
+D:\Code\Visual Studio\ADAddSelfWriteChecker\bin\Release\System.IO.FileSystem.AccessControl.dll
+D:\Code\Visual Studio\ADAddSelfWriteChecker\bin\Release\System.Security.AccessControl.dll
+D:\Code\Visual Studio\ADAddSelfWriteChecker\bin\Release\System.Security.Principal.Windows.dll
+D:\Code\Visual Studio\ADAddSelfWriteChecker\bin\Release\System.IO.FileSystem.AccessControl.xml
+D:\Code\Visual Studio\ADAddSelfWriteChecker\bin\Release\System.Security.AccessControl.xml
+D:\Code\Visual Studio\ADAddSelfWriteChecker\bin\Release\System.Security.Principal.Windows.xml
+D:\Code\Visual Studio\ADAddSelfWriteChecker\obj\Release\ADAddSelfWriteChecker.csproj.AssemblyReference.cache
+D:\Code\Visual Studio\ADAddSelfWriteChecker\obj\Release\ADAddSelfWriteChecker.csproj.CoreCompileInputs.cache
+D:\Code\Visual Studio\ADAddSelfWriteChecker\obj\Release\ADAddSel.479B03F7.Up2Date
+D:\Code\Visual Studio\ADAddSelfWriteChecker\obj\Release\ADAddSelfWriteChecker.exe
+D:\Code\Visual Studio\ADAddSelfWriteChecker\obj\Release\ADAddSelfWriteChecker.pdb

@@ -1,0 +1,14 @@
+D:\Code\Visual Studio\ADACLAddMemberForcePwd\bin\Release\ADACLAddMemberForcePwd.exe.config
+D:\Code\Visual Studio\ADACLAddMemberForcePwd\bin\Release\ADACLAddMemberForcePwd.exe
+D:\Code\Visual Studio\ADACLAddMemberForcePwd\bin\Release\ADACLAddMemberForcePwd.pdb
+D:\Code\Visual Studio\ADACLAddMemberForcePwd\bin\Release\System.IO.FileSystem.AccessControl.dll
+D:\Code\Visual Studio\ADACLAddMemberForcePwd\bin\Release\System.Security.AccessControl.dll
+D:\Code\Visual Studio\ADACLAddMemberForcePwd\bin\Release\System.Security.Principal.Windows.dll
+D:\Code\Visual Studio\ADACLAddMemberForcePwd\bin\Release\System.IO.FileSystem.AccessControl.xml
+D:\Code\Visual Studio\ADACLAddMemberForcePwd\bin\Release\System.Security.AccessControl.xml
+D:\Code\Visual Studio\ADACLAddMemberForcePwd\bin\Release\System.Security.Principal.Windows.xml
+D:\Code\Visual Studio\ADACLAddMemberForcePwd\obj\Release\ADACLAddMemberForcePwd.csproj.AssemblyReference.cache
+D:\Code\Visual Studio\ADACLAddMemberForcePwd\obj\Release\ADACLAddMemberForcePwd.csproj.CoreCompileInputs.cache
+D:\Code\Visual Studio\ADACLAddMemberForcePwd\obj\Release\ADACLAdd.3C15C2EF.Up2Date
+D:\Code\Visual Studio\ADACLAddMemberForcePwd\obj\Release\ADACLAddMemberForcePwd.exe
+D:\Code\Visual Studio\ADACLAddMemberForcePwd\obj\Release\ADACLAddMemberForcePwd.pdb

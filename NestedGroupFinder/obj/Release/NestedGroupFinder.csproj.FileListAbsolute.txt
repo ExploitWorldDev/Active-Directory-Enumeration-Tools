@@ -1,0 +1,14 @@
+D:\Code\Visual Studio\NestedGroupFinder\bin\Release\NestedGroupFinder.exe.config
+D:\Code\Visual Studio\NestedGroupFinder\bin\Release\NestedGroupFinder.exe
+D:\Code\Visual Studio\NestedGroupFinder\bin\Release\NestedGroupFinder.pdb
+D:\Code\Visual Studio\NestedGroupFinder\bin\Release\System.IO.FileSystem.AccessControl.dll
+D:\Code\Visual Studio\NestedGroupFinder\bin\Release\System.Security.AccessControl.dll
+D:\Code\Visual Studio\NestedGroupFinder\bin\Release\System.Security.Principal.Windows.dll
+D:\Code\Visual Studio\NestedGroupFinder\bin\Release\System.IO.FileSystem.AccessControl.xml
+D:\Code\Visual Studio\NestedGroupFinder\bin\Release\System.Security.AccessControl.xml
+D:\Code\Visual Studio\NestedGroupFinder\bin\Release\System.Security.Principal.Windows.xml
+D:\Code\Visual Studio\NestedGroupFinder\obj\Release\NestedGroupFinder.csproj.AssemblyReference.cache
+D:\Code\Visual Studio\NestedGroupFinder\obj\Release\NestedGroupFinder.csproj.CoreCompileInputs.cache
+D:\Code\Visual Studio\NestedGroupFinder\obj\Release\NestedGr.464F51BE.Up2Date
+D:\Code\Visual Studio\NestedGroupFinder\obj\Release\NestedGroupFinder.exe
+D:\Code\Visual Studio\NestedGroupFinder\obj\Release\NestedGroupFinder.pdb
