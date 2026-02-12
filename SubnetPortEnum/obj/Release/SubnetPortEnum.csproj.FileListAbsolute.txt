@@ -1,7 +1,0 @@
-D:\Code\Visual Studio\SubnetPortEnum\bin\Release\SubnetPortEnum.exe.config
-D:\Code\Visual Studio\SubnetPortEnum\bin\Release\SubnetPortEnum.exe
-D:\Code\Visual Studio\SubnetPortEnum\bin\Release\SubnetPortEnum.pdb
-D:\Code\Visual Studio\SubnetPortEnum\obj\Release\SubnetPortEnum.csproj.AssemblyReference.cache
-D:\Code\Visual Studio\SubnetPortEnum\obj\Release\SubnetPortEnum.csproj.CoreCompileInputs.cache
-D:\Code\Visual Studio\SubnetPortEnum\obj\Release\SubnetPortEnum.exe
-D:\Code\Visual Studio\SubnetPortEnum\obj\Release\SubnetPortEnum.pdb
